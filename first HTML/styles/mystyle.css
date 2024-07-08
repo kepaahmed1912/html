@@ -1,0 +1,23 @@
+
+h2 { 
+    color:rgb(13, 245, 129); font-family:monospace;
+}
+
+h1 {
+color: rgb(13, 245, 129); font-family: monospace;
+}
+
+body {
+background-color: rgb(130, 156, 236);
+}
+.site-container {
+    width: 80vw;
+    min-height: 100vh;
+    margin-inline: auto;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(236, 239, 248);
+}
+th, td {
+    padding: 15px;
+  } 
